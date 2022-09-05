@@ -1,2 +1,2 @@
 # PythonAssignments
-Contains Python Assignment
+Python Programming Assignments
